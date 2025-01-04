@@ -19,6 +19,11 @@ Welcome to the AI-Powered Content Generator! This project is designed to help yo
 ## Overview
 
 This AI-powered content generator leverages Cohere's large language model API to generate high-quality content from simple inputs. The app is built using Python and deployed on Streamlit Cloud, making it accessible through a web interface.
+You can interact with the app here: [AI-Powered Content Generator](https://build-your-own-ai-powered-content-generator-byxexx7m9nuwj67py7.streamlit.app/)
+
+## **Below is a demonstration of the app's interface:**
+![image](https://github.com/user-attachments/assets/172f6194-d674-4032-ad64-cd7ab15f71ff)
+
 
 ## Features
 
